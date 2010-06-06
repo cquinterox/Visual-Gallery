@@ -1,0 +1,54 @@
+﻿/*
+// Cesar F Quinteros 2009
+// http://www.quinterox.com
+*/
+
+
+body
+{
+    text-align:center;
+    margin: 20px;
+}
+#container
+{
+    margin: 0 auto; 
+    border: solid 1px #D2D2D2;
+    width:  700px;
+    background-color:#E6E6E6;
+}
+#container br
+{
+    clear: both;
+}
+#container #ul_images
+{
+    margin: 0 auto; 
+    padding-left:0; 
+ 
+    width:698px; 
+}
+#container #ul_images li
+{
+    list-style-type: none;
+    display: inline;
+}
+#container #ul_images li a img  
+{
+    border: solid 1px #D2D2D2; 
+    background-color: #FFFFFF;
+    padding:3px;
+}
+.hide
+{
+    display:none;
+}
+#img_stage
+{
+    text-align:center;
+}
+#img_stage img
+{
+    border: solid 1px #D2D2D2; 
+    background-color: #FFFFFF;
+    padding:3px;
+}
